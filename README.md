@@ -6,22 +6,25 @@ Welcome to my portfolio website! This repository showcases my work, projects, an
 - [Skills](#skills)
 - [Contact](#contact)
 
+<a href="https://youtube.com" class="button">Visit Example</a>
+
+
 ## About Me
-Hello! I'm Shwetabh Biswas, a recent graduate from IIT Jodhpur with a passion for exploring the exciting realm of Natural Language Processing (NLP). My academic journey in physics ignited my curiosity for ML, leading me to delve into various aspects of this fascinating field.
+Hello! I'm Shwetabh Biswas, a recent graduate from IIT Jodhpur with a passion for exploring the exciting realm of Artificial Intelligence. My academic journey in physics ignited my curiosity for ML, leading me to delve into various aspects of this fascinating field.
 
 Here are five key points that define my journey:
 
-**AI Enthusiast**: My interest in NLP sparked during my master's program. I dedicated myself to understanding the fundamentals by completing essential courses like CS231n and CS224n. To deepen my knowledge, I embarked on side projects, including creating a transformer architecture from scratch for neural machine translation and training a variational autoencoder for image generation.
+**AI Enthusiast**: My interest in ML sparked during my master's program. I dedicated myself to understanding the fundamentals by completing essential courses like CS231n and CS224n. To deepen my knowledge, I embarked on side projects, including creating a transformer architecture from scratch for neural machine translation and training a variational autoencoder for image generation.
 
 **Project Enthusiast**: I have a penchant for turning ideas into reality. I've worked on diverse projects, such as developing chatbots and AI-assistants capable of facial recognition using MTCNN and FaceNet architectures. These projects are not just about technology but also about creating meaningful interactions. One standout project is Llama-2, a conversational agent equipped with text-to-speech and speech-to-text capabilities, seamlessly handling tasks like answering questions and reading emails.
 
-**Seeking Opportunities**: I am currently on the lookout for project opportunities or internships that will not only deepen my understanding of NLP but also serve as a springboard for my academic career in NLP, NLU, and related fields. I am eager to contribute my skills and knowledge to innovative projects.
+**Seeking Opportunities**: I am currently on the lookout for project opportunities or internships that will not only deepen my understanding of NLP and CV but also serve as a springboard for my academic career in NLP, CV, and related fields. I am eager to contribute my skills and knowledge to innovative projects.
 
-**Location**: I am based in the vibrant city of Bangalore. If you have any exciting opportunities aligning with my interests, please don't hesitate to reach out. I am enthusiastic about collaborating on projects that push the boundaries of NLP and contribute to the evolving landscape of artificial intelligence.
+**Location**: I am based in Bangalore. If you have any exciting opportunities aligning with my interests, please don't hesitate to reach out. I am enthusiastic about collaborating on projects that push the boundaries of NLP/CV and contribute to the evolving landscape of artificial intelligence.
 
-**Diverse Skill Set**: My experiences extend beyond coursework and projects. I have honed a range of skills, from developing transformer architectures to creating practical applications like chatbots and AI-assistants. My commitment to continuous learning and hands-on experience sets me apart in the dynamic field of NLP.
+**Diverse Skill Set**: My experiences extend beyond coursework and projects. I have honed a range of skills, from developing DNN architectures to deploying them on a server using Flask/REST-API. My commitment to continuous learning and hands-on experience sets me apart in the dynamic field of NLP.
 
-I am excited about the possibilities that lie ahead and welcome any opportunities for collaboration, learning, and growth. Feel free to connect with me if you have a project in mind or if you simply want to discuss the fascinating world of NLP!
+I am excited about the possibilities that lie ahead and welcome any opportunities for collaboration, learning, and growth. Feel free to connect with me if you have a project in mind or if you simply want to discuss the fascinating world of AI!
 
 ### Education
 -   **Master of Science** , Physics
