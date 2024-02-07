@@ -1,6 +1,4 @@
-# Your Name's Portfolio
-
-Welcome to my portfolio! This repository showcases my work, projects, and skills. Feel free to explore and learn more about what I do.
+Welcome to my portfolio website! This repository showcases my work, projects, and skills. Feel free to explore and learn more about what I do.
 
 ## Table of Contents
 - [About Me](#about-me)
@@ -9,44 +7,68 @@ Welcome to my portfolio! This repository showcases my work, projects, and skills
 - [Contact](#contact)
 
 ## About Me
-I am [Your Name], a passionate and dedicated [Your Profession/Title] based in [Your Location]. With a background in [Your Field/Area of Expertise], I am committed to delivering high-quality solutions and pushing the boundaries of what is possible.
+Hello! I'm Shwetabh Biswas, a recent graduate from IIT Jodhpur with a passion for exploring the exciting realm of Natural Language Processing (NLP). My academic journey in physics ignited my curiosity for ML, leading me to delve into various aspects of this fascinating field.
+
+Here are five key points that define my journey:
+
+**AI Enthusiast**: My interest in NLP sparked during my master's program. I dedicated myself to understanding the fundamentals by completing essential courses like CS231n and CS224n. To deepen my knowledge, I embarked on side projects, including creating a transformer architecture from scratch for neural machine translation and training a variational autoencoder for image generation.
+
+**Project Enthusiast**: I have a penchant for turning ideas into reality. I've worked on diverse projects, such as developing chatbots and AI-assistants capable of facial recognition using MTCNN and FaceNet architectures. These projects are not just about technology but also about creating meaningful interactions. One standout project is Llama-2, a conversational agent equipped with text-to-speech and speech-to-text capabilities, seamlessly handling tasks like answering questions and reading emails.
+
+**Seeking Opportunities**: I am currently on the lookout for project opportunities or internships that will not only deepen my understanding of NLP but also serve as a springboard for my academic career in NLP, NLU, and related fields. I am eager to contribute my skills and knowledge to innovative projects.
+
+**Location**: I am based in the vibrant city of Bangalore. If you have any exciting opportunities aligning with my interests, please don't hesitate to reach out. I am enthusiastic about collaborating on projects that push the boundaries of NLP and contribute to the evolving landscape of artificial intelligence.
+
+**Diverse Skill Set**: My experiences extend beyond coursework and projects. I have honed a range of skills, from developing transformer architectures to creating practical applications like chatbots and AI-assistants. My commitment to continuous learning and hands-on experience sets me apart in the dynamic field of NLP.
+
+I am excited about the possibilities that lie ahead and welcome any opportunities for collaboration, learning, and growth. Feel free to connect with me if you have a project in mind or if you simply want to discuss the fascinating world of NLP!
 
 ### Education
-- **[Your Degree]**, [University Name], [Year Graduated]
+-   **Master of Science** , Physics
+    Indian Institute of Technology, Jodhpur
+    May 2021 - June 2023
+-   **Bachelor of science**, Physics
+    Center For Basic Sciences, Raipur, CG
+    May 2018 - June 2021
 
 ### Certifications
-- [Certification Name], [Certifying Body], [Year Obtained]
+- Python For Data Science And Machine Learning Bootcamp - Udemy
+- CS231n - Convolutional Neural Networks For Visual Recognition - Stanford
+- CS223n - Natural Language Processing - Stanford
+- Deployment Of Machine Learning Models- Udemy
+- Data Analytics Certification - WSCube Tech
+- Data Driven Astronomy - Coursera
 
 ## Projects
 Here are some of the key projects I have worked on:
 
-### [Project 1 Name]
-- Brief description of the project.
-- Technologies used: [Tech Stack]
-- Link to the project repository or live demo.
+### Person Detection And Cropping
+- Integrated YOLOv8 and FaceNet for embedding generation and cropping out people and faces.
+- Deployed on Railway app using Dockerization and FAST-API.
 
-### [Project 2 Name]
-- Brief description of the project.
-- Technologies used: [Tech Stack]
-- Link to the project repository or live demo.
+### Image Reconstruction Using a VAE
+- Implementing a CNN-based VAE architecture from scratch
+- Learned and implemented the parametrization trick to back-propagate the losses successfully.
+- Explored the architecture and performance over a variety of CNN layers(128, 256, 512).
 
-### [Project 3 Name]
-- Brief description of the project.
-- Technologies used: [Tech Stack]
-- Link to the project repository or live demo.
+### AI-powered Assistant
+
+- Conversational Abilities: Leveraged the advanced language model LLM Llama-2 to power the conversational aspect of the AI assistant and also, used quantization to reduce the modelsize from 20 GB to 6 GB.
+- Face Recognition using Facenet and Object Detection using YOLO: Learned the architectures of YOLO and FaceNet.
+- Integration of various models and APIsto read emails and check calendars.
 
 ## Skills
-- **Programming Languages:** [List of Languages]
-- **Web Development:** [List of Frameworks, Libraries]
-- **Database:** [List of Databases]
-- **Tools & Technologies:** [List of Tools and Technologies]
-- **Soft Skills:** [List of Soft Skills]
+- **Programming Languages:** Python
+- **Web Development:** Flask, FastAPI
+- **Database:** MySQL
+- **Tools & Technologies:** Git, Docker, 
 
 ## Contact
 Feel free to reach out to me:
 
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Handle]
+- Email: [send me an email](shwetabhbiswas2305@gmail.com)
+- LinkedIn: [Let's connect on LinkedIn](https://www.linkedin.com/in/shwetabh-biswas/)
+- GitHub: [See my projects](https://github.com/shwetabh-23)
+- Instagram: [have a look in my social life](https://www.instagram.com/shwetabh.23/)
 
 I am open to collaboration and new opportunities. Let's connect!
