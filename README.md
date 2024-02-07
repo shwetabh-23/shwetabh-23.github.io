@@ -42,11 +42,11 @@ I am excited about the possibilities that lie ahead and welcome any opportunitie
 ## Projects
 Here are some of the key projects I have worked on:
 
-### Person Detection And Cropping : For a detailed overview, [click here](https://shwetabh-23.github.io/person-detection-demo//) 
+### Person Detection And Cropping : For a detailed overview, [click here](https://shwetabh-23.github.io/person-detection-demo/) 
 - Integrated YOLOv8 and FaceNet for embedding generation and cropping out people and faces.
 - Deployed on Railway app using Dockerization and FAST-API.
 
-### Image Reconstruction Using a VAE : For a detailed overview, [click here](https://shwetabh-23.github.io/AI-powered-assistant/) 
+### Image Reconstruction Using a VAE : For a detailed overview, [click here](https://shwetabh-23.github.io/VAE-website/) 
 - Implementing a CNN-based VAE architecture from scratch
 - Learned and implemented the parametrization trick to back-propagate the losses successfully.
 - Explored the architecture and performance over a variety of CNN layers(128, 256, 512).
