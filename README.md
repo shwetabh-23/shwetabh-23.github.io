@@ -42,7 +42,7 @@ I am excited about the possibilities that lie ahead and welcome any opportunitie
 ## Projects
 Here are some of the key projects I have worked on:
 
-### Person Detection And Cropping : For a detailed overview, [click here](https://shwetabh-23.github.io/person-detection-demo/) 
+### Person Detection And Cropping : For a detailed overview, [click here](https://shwetabh-23.github.io/person-detection-website/) 
 - Integrated YOLOv8 and FaceNet for embedding generation and cropping out people and faces.
 - Deployed on Railway app using Dockerization and FAST-API.
 
@@ -51,7 +51,7 @@ Here are some of the key projects I have worked on:
 - Learned and implemented the parametrization trick to back-propagate the losses successfully.
 - Explored the architecture and performance over a variety of CNN layers(128, 256, 512).
 
-### AI-powered Assistant : For a detailed overview, [click here](https://shwetabh-23.github.io/AI-powered-assistant/) 
+### AI-powered Assistant : For a detailed overview, [click here](https://shwetabh-23.github.io/AI-assistant-website/) 
 
 - Conversational Abilities: Leveraged the advanced language model LLM Llama-2 to power the conversational aspect of the AI assistant and also, used quantization to reduce the modelsize from 20 GB to 6 GB.
 - Face Recognition using Facenet and Object Detection using YOLO: Learned the architectures of YOLO and FaceNet.
