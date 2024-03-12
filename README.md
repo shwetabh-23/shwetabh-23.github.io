@@ -6,7 +6,7 @@ Welcome to my portfolio website! This repository showcases my work, projects, an
 - [Skills](#skills)
 - [Contact](#contact)
 
-## This is the link to my resume : [Resume](https://drive.google.com/file/d/1vPnK1JzG85YRzYstcP495Xrj2BIglo7r/view?usp=drive_link)
+## This is the link to my resume : [Resume](https://drive.google.com/file/d/1GCBwdbKkB5Q0A0FO41HHnhiAR6uKNFig/view?usp=drive_link)
 
 ## About Me
 Hello! I'm Shwetabh Biswas, a recent graduate from IIT Jodhpur with a passion for exploring the exciting realm of Artificial Intelligence. My academic journey in physics ignited my curiosity for ML, leading me to delve into various aspects of this fascinating field.
