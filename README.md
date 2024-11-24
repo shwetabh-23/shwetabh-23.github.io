@@ -41,6 +41,9 @@ I am excited about the possibilities that lie ahead and welcome any opportunitie
 - Data Analytics Certification - WSCube Tech
 - Data Driven Astronomy - Coursera
 
+## Blogs
+- I recently wrote a blog on Understanding Multimodal Large Language Models (MLLMs). [click here](https://shwetabh-23.github.io/Understanding_multimodal_models/) to read it.
+
 ## Projects
 Here are some of the key projects I have worked on:
 
