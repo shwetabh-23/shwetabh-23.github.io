@@ -43,6 +43,7 @@ I am excited about the possibilities that lie ahead and welcome any opportunitie
 
 ## Blogs
 - I recently wrote a blog on Understanding Multimodal Large Language Models (MLLMs). [click here](https://shwetabh-23.github.io/Understanding_multimodal_models/) to read it.
+- A Medium version of the same blog is also available for better readibility and visuals. [click here](https://medium.com/@shwetabhbiswas2305/understanding-multimodal-large-language-models-mllms-7194e8a373b3) to read it.
 
 ## Projects
 Here are some of the key projects I have worked on:
