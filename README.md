@@ -1,80 +1,95 @@
-Welcome to my portfolio website! This repository showcases my work, projects, and skills. Feel free to explore and learn more about what I do.
+# 👋 Welcome to My Portfolio
 
-## Table of Contents
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
+This repository showcases my **work, projects, and skills** as an AI Research Engineer.  
+I’m passionate about building **real-world AI systems** that combine research and engineering to deliver **impactful, deployable solutions**.  
 
-## This is the link to my resume : [Resume](https://drive.google.com/file/d/1GCBwdbKkB5Q0A0FO41HHnhiAR6uKNFig/view?usp=drive_link)
+---
 
-## About Me
-Hello! I'm Shwetabh Biswas, a recent graduate from IIT Jodhpur with a passion for exploring the exciting realm of Artificial Intelligence. My academic journey in physics ignited my curiosity for ML, leading me to delve into various aspects of this fascinating field.
+## 📄 Resume  
+[View My Resume](https://drive.google.com/file/d/1GCBwdbKkB5Q0A0FO41HHnhiAR6uKNFig/view?usp=drive_link)
 
-Here are five key points that define my journey:
+---
 
-**AI Enthusiast**: My interest in ML sparked during my master's program. I dedicated myself to understanding the fundamentals by completing essential courses like CS231n and CS224n. To deepen my knowledge, I embarked on side projects, including creating a transformer architecture from scratch for neural machine translation and training a variational autoencoder for image generation.
+## 👨‍💻 About Me  
 
-**Project Enthusiast**: I have a penchant for turning ideas into reality. I've worked on diverse projects, such as developing chatbots and AI-assistants capable of facial recognition using MTCNN and FaceNet architectures. These projects are not just about technology but also about creating meaningful interactions. One standout project is Llama-2, a conversational agent equipped with text-to-speech and speech-to-text capabilities, seamlessly handling tasks like answering questions and reading emails.
+Hello! I'm **Shwetabh Biswas**, currently working as an **AI Research Engineer** at **AAV Innovation Labs & Johnson & Johnson**.  
 
-**Seeking Opportunities**: I am currently on the lookout for project opportunities or internships that will not only deepen my understanding of NLP and CV but also serve as a springboard for my academic career in NLP, CV, and related fields. I am eager to contribute my skills and knowledge to innovative projects.
+Here are some key highlights from my work and journey:
 
-**Location**: I am based in Bangalore. If you have any exciting opportunities aligning with my interests, please don't hesitate to reach out. I am enthusiastic about collaborating on projects that push the boundaries of NLP/CV and contribute to the evolving landscape of artificial intelligence.
+- **AI Engineer @ J&J & AAV Labs** → Building AI systems like:
+  - 📈 *Innovation Graph*: GraphRAG-powered collaborative ideation platform  
+  - 🏭 *Resource Allocation*: Forecasting model with SHAP & LIME interpretability for workforce optimization  
+  - 📑 *Document Scoring System*: Automated design document evaluator using **Docling**  
 
-**Diverse Skill Set**: My experiences extend beyond coursework and projects. I have honed a range of skills, from developing DNN architectures to deploying them on a server using Flask/REST-API. My commitment to continuous learning and hands-on experience sets me apart in the dynamic field of NLP.
+- **Researcher @ IISc Bangalore (2024–25)**  
+  - Published at **WACV 2025** (*FRAUD-Net* – 91.4% SOTA multimodal misinformation detection)  
+  - Built **agentic AI pipelines** with **LangGraph** (10× faster inference using KV caching)  
+  - Developed **deepfake detection models** & worked on **Google Project Vaani** for speech recognition  
 
-I am excited about the possibilities that lie ahead and welcome any opportunities for collaboration, learning, and growth. Feel free to connect with me if you have a project in mind or if you simply want to discuss the fascinating world of AI!
+- **Intern @ KissanAI** → Fine-tuned **Qwen-7B** for agriculture-based VQA, improving performance by **2×**, with public release on Hugging Face  
 
-### Education
--   **Master of Science** , Physics
-    Indian Institute of Technology, Jodhpur
-    May 2021 - June 2023
--   **Bachelor of science**, Physics
-    Center For Basic Sciences, Raipur, CG
-    May 2018 - June 2021
+- **Early Projects** → Built gallery agent, VAE image reconstruction pipelines, and person-detection systems integrating **YOLO + FaceNet**  
 
-### Certifications
-- Python For Data Science And Machine Learning Bootcamp - Udemy
-- CS231n - Convolutional Neural Networks For Visual Recognition - Stanford
-- CS223n - Natural Language Processing - Stanford
-- Deployment Of Machine Learning Models- Udemy
-- Data Analytics Certification - WSCube Tech
-- Data Driven Astronomy - Coursera
+I bring together **academic rigor** and **industry-scale engineering** to design AI that is practical, explainable, and impactful.  
 
-## Blogs
-- I recently wrote a blog on Understanding Multimodal Large Language Models (MLLMs). [click here](https://shwetabh-23.github.io/Understanding_multimodal_models/) to read it.
-- A Medium version of the same blog is also available for better readibility and visuals. [click here](https://medium.com/@shwetabhbiswas2305/understanding-multimodal-large-language-models-mllms-7194e8a373b3) to read it.
+---
 
-## Projects
-Here are some of the key projects I have worked on:
+## 🎓 Education  
+- **MSc Physics** – IIT Jodhpur (2021–2023)  
+- **BSc Physics** – Center for Basic Sciences, Raipur (2018–2021)  
 
-### Person Detection And Cropping : For a detailed overview, [click here](https://shwetabh-23.github.io/person-detection-website/) 
-- Integrated YOLOv8 and FaceNet for embedding generation and cropping out people and faces.
-- Deployed on Railway app using Dockerization and FAST-API.
+---
 
-### Image Reconstruction Using a VAE : For a detailed overview, [click here](https://shwetabh-23.github.io/VAE-website/) 
-- Implementing a CNN-based VAE architecture from scratch
-- Learned and implemented the parametrization trick to back-propagate the losses successfully.
-- Explored the architecture and performance over a variety of CNN layers(128, 256, 512).
+## 🛠 Skills  
 
-### AI-powered Assistant : For a detailed overview, [click here](https://shwetabh-23.github.io/AI-assistant-website/) 
+- **Languages**: Python, SQL  
+- **Frameworks**: PyTorch, Hugging Face, LangChain, LangGraph  
+- **ML/AI Domains**: Computer Vision, NLP, Multimodal AI, Deepfake Detection  
+- **LLM Techniques**: RAG, PEFT, SFT, Agentic Workflows  
+- **Deployment**: FastAPI, Streamlit, Docker, CI/CD  
+- **Tools**: Git, SHAP, LIME, Docling  
 
-- Conversational Abilities: Leveraged the advanced language model LLM Llama-2 to power the conversational aspect of the AI assistant and also, used quantization to reduce the modelsize from 20 GB to 6 GB.
-- Face Recognition using Facenet and Object Detection using YOLO: Learned the architectures of YOLO and FaceNet.
-- Integration of various models and APIsto read emails and check calendars.
+---
 
-## Skills
-- **Programming Languages:** Python
-- **Web Development:** Flask, FastAPI
-- **Database:** MySQL
-- **Tools & Technologies:** Git, Docker, 
+## 🚀 Projects  
 
-## Contact
-Feel free to reach out to me:
+### 🔹 [Person Detection and Cropping](https://shwetabh-23.github.io/person-detection-website/)  
+YOLOv8 + FaceNet integration for face/person extraction, deployed with FastAPI & Docker.  
 
-- Email: [send me an email](shwetabhbiswas2305@gmail.com)
-- LinkedIn: [Let's connect on LinkedIn](https://www.linkedin.com/in/shwetabh-biswas/)
-- GitHub: [See my projects](https://github.com/shwetabh-23)
-- Instagram: [have a look at my social life](https://www.instagram.com/shwetabh.23/)
+### 🔹 [Image Reconstruction Using VAE](https://shwetabh-23.github.io/VAE-website/)  
+CNN-based VAE for MNIST with LPIPS-based evaluation.  
 
-I am open to collaboration and new opportunities. Let's connect!
+### 🔹 [AI-powered Assistant](https://shwetabh-23.github.io/AI-assistant-website/)  
+Multimodal assistant with Q&A, face recognition, object detection, and calendar/email integration.  
+
+### 🔹 [Gallery Agent](https://github.com/shwetabh-23/Gallery-Agent)  
+Telegram bot for searchable photo galleries with OCR, captions, embeddings, and face recognition.  
+
+---
+
+## 📚 Publications  
+
+- **FRAUD-Net**: Fraud News Detection using Uncertainty & Domain Adaptation (*WACV 2025*)  
+- **Classifying Gravitational Waves** with GMM and GLM techniques (*PoS, 2023*)  
+
+---
+
+## ✍️ Blogs  
+
+- [Understanding Multimodal Large Language Models](https://medium.com/@explorer_shwetabh/understanding-multimodal-large-language-models-mllms-7194e8a373b3)  
+- [Trying to learn what they “see” -PART : 1](https://medium.com/@explorer_shwetabh/trying-to-learn-what-they-see-part-1-2a3ff94b58de)  
+- [Trying to learn what they “see”: PART-2](https://medium.com/@explorer_shwetabh/trying-to-learn-what-they-see-part-2-2ac363c1f5a5)  
+- [DeepFake Detection — Part 1 : Understanding Dual Attention Vision Transformers](https://medium.com/@explorer_shwetabh/deepfake-detection-part-1-understanding-dual-attention-vision-transformers-fac7812f1243)  
+- [DeepFake detection — Part 2: Understanding LoRA based MoE adapter architecture](https://medium.com/@explorer_shwetabh/deepfake-detection-part-2-understanding-lora-based-moe-adapter-architecture-813acbf9b345)  
+
+---
+
+## 📫 Contact  
+
+- 📧 Email: shwetabhbiswas2305@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shwetabh-biswas/)  
+- 🌐 [Portfolio Website](https://shwetabh-23.github.io/)  
+- 📝 [Medium](https://medium.com/@explorer_shwetabh)  
+- 🐙 [GitHub](https://github.com/shwetabh-23)  
+
+---
