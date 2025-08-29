@@ -6,7 +6,7 @@ I’m passionate about building **real-world AI systems** that combine research 
 ---
 
 ## 📄 Resume  
-[View My Resume](https://drive.google.com/file/d/1GCBwdbKkB5Q0A0FO41HHnhiAR6uKNFig/view?usp=drive_link)
+[View My Resume](https://drive.google.com/file/d/1ZCbzO-WZ-JHjR20-JmdjNk8Ahco55t4E/view?usp=sharing)
 
 ---
 
